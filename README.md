@@ -1,5 +1,5 @@
 # Thinker-Spring (Written in Java)
-### you can play with your web page words with this application.
+### A content management system
 
 #### Functionalities:
      - Authentication Using JWT
