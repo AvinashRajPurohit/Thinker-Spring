@@ -26,9 +26,9 @@ $  git clone https://github.com/AvinashRajPurohit/Thinker-Spring.git
 $  cd Thinker-Spring
 ```
 
-Update system.properties with required details
+#### Update system.properties with required details
  - Db Creds
-install the dependencies from pom.xml using mvn:
+#### install the dependencies from pom.xml using mvn:
 
 ```sh
 $ Run the server
