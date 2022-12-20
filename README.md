@@ -33,6 +33,6 @@ $  cd Thinker-Spring
 ```sh
 $ Run the server
 ```
-And navigate to `http://127.0.0.1:8080/swagger-ui/index.html`
-Now Play with the apis.
+* Navigate to `http://127.0.0.1:8080/swagger-ui/index.html`
+* Now Play with the apis.
 
